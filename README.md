@@ -1,15 +1,5 @@
 # BeeTV APK — Free Movie & TV Show Streaming App for Android
 
-<div align="center">
-
-## ⬇️ Download Latest Version
-
-[![Download BeeTV APK](https://img.shields.io/badge/Download%20BeeTV%20APK-Latest%20Version-green?style=for-the-badge)](https://beetvapkapp.com)
-
-**[👉 Click Here to Download BeeTV APK Latest Version](https://beetvapkapp.com)**
-
-</div>
-
 ---
 
 If you are looking for a free, fast, and reliable way to stream movies
@@ -54,7 +44,7 @@ Follow these simple steps to install BeeTV on your Android device:
 1. Open **Settings** on your Android phone
 2. Go to **Security** or **Privacy**
 3. Enable **Install from Unknown Sources**
-4. Download the latest **BeeTV APK** from [beetvapkapp.com](https://beetvapkapp.com)
+4. Download the latest **BeeTV APK** 
 5. Open the downloaded file and tap **Install**
 6. Once installed, open BeeTV and enjoy
 
@@ -85,15 +75,9 @@ BeeTV APK is one of the most complete free streaming apps available
 for Android right now. It is fast, regularly updated, and covers
 almost every movie and TV show you can think of.
 
-If you want a no-cost alternative to paid streaming platforms,
-visit [beetvapkapp.com](https://beetvapkapp.com) and download
-BeeTV APK today.
 
-<div align="center">
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-beetvapkapp.com-blue?style=for-the-badge)](https://beetvapkapp.com)
 
-</div>
 
 ---
 
